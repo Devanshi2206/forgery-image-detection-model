@@ -1,1 +1,0 @@
-# forgery-image-detection-model
